@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740850461932",
+    "project_id": "digital-g-33742",
+    "storage_bucket": "digital-g-33742.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740850461932:android:2da65d993ef516517a49c9",
+        "android_client_info": {
+          "package_name": "com.example.digital_g"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFqJuh5pjd-MidCuYnXNhhgp6AgTuKBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
